@@ -37,39 +37,36 @@
 |	['autoinit'] Whether or not to automatically initialize the database.
 |	['stricton'] TRUE/FALSE - forces 'Strict Mode' connections
 |							- good for ensuring strict SQL while developing
-|
+
 | The $active_group variable lets you choose which connection group to
 | make active.  By default there is only one group (the 'default' group).
-|
+
 | The $active_record variables lets you determine whether or not to load
 | the active record class
 */
 
-$active_group = 'default';
+// Examples: mysql
+$active_group = 'mysql';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'localhost';
-$db['default']['username'] = '';
-$db['default']['password'] = '';
-$db['default']['database'] = '';
-$db['default']['dbdriver'] = 'mysqli';
-$db['default']['dbprefix'] = '';
-$db['default']['pconnect'] = FALSE;
-$db['default']['db_debug'] = FALSE;
-$db['default']['cache_on'] = FALSE;
-$db['default']['cachedir'] = '';
-$db['default']['char_set'] = 'utf8';
-$db['default']['dbcollat'] = 'utf8_general_ci';
-$db['default']['swap_pre'] = '';
-$db['default']['autoinit'] = TRUE;
-$db['default']['stricton'] = FALSE;
+//MySQL example
+$db['mysql']['hostname'] = 'localhost';
+$db['mysql']['username'] = 'root';
+$db['mysql']['password'] = 's,az&QAt';
+$db['mysql']['database'] = 'allua_info_db';
+$db['mysql']['dbdriver'] = 'mysqli';
+$db['mysql']['dbprefix'] = '';
+$db['mysql']['pconnect'] = FALSE;
+$db['mysql']['db_debug'] = FALSE;
+$db['mysql']['cache_on'] = FALSE;
+$db['mysql']['cachedir'] = '';
+$db['mysql']['char_set'] = 'utf8';
+$db['mysql']['dbcollat'] = 'utf8_general_ci';
+$db['mysql']['swap_pre'] = '';
+$db['mysql']['autoinit'] = TRUE;
+$db['mysql']['stricton'] = FALSE;
 
-if (!function_exists('mysqli_connect')) {
-    $db['default']['dbdriver'] = 'mysql';
-}
-
-//$db['default']['port'] = 3306;
-
+$db['mysql']['port'] = 3306;
 
 /* End of file database.php */
 /* Location: ./application/config/database.php */

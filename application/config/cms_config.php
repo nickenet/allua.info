@@ -9,20 +9,21 @@ $config['per_page'] = 8;
 //Last approved estates
 $config['last_estates_limit'] = 4;
 
-$config['version'] = '';
+$config['version'] = '1.6.2';
 
 $config['default_template_css'] = 'assets/css/bootstrap.min.css';
 
-$config['installed'] = false;
+$config['codecanyon_username'] = 'nickenet';
 
-//$config['color_picker'] = true;
+$config['codecanyon_code'] = 'eeeee';
 
-$config['color'] = 'purple';
+$config['hash_function'] = 'hash';
 
-$config['def_package'] = 1;
+$config['installed'] = true;
 
-$config['captcha_disabled'] = FALSE;
+$config['captcha_disabled'] = false;
 
-$config['all_results_default'] = TRUE;
+$config['admin_beginner_enabled'] = true;
 
+$config['all_results_default'] = true;
 

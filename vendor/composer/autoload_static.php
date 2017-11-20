@@ -7,9 +7,9 @@ namespace Composer\Autoload;
 class ComposerStaticInit126e5b2cd07e6078e52da987ffc61603
 {
     public static $files = array (
-        '0e6d7bf4a5811bfa5cf40c5ccd6fae6a' => __DIR__ . '/..' . '/symfony/polyfill-mbstring/bootstrap.php',
         'a0edc8309cc5e1d60e3047b5df6b7052' => __DIR__ . '/..' . '/guzzlehttp/psr7/src/functions_include.php',
         'c964ee0ededf28c96ebd9db5099ef910' => __DIR__ . '/..' . '/guzzlehttp/promises/src/functions_include.php',
+        '0e6d7bf4a5811bfa5cf40c5ccd6fae6a' => __DIR__ . '/..' . '/symfony/polyfill-mbstring/bootstrap.php',
         '37a3dc5111fe8f707ab4c132ef1dbc62' => __DIR__ . '/..' . '/guzzlehttp/guzzle/src/functions_include.php',
         '7e702cccdb9dd904f2ccf22e5f37abae' => __DIR__ . '/..' . '/facebook/php-sdk-v4/src/Facebook/polyfills.php',
     );
@@ -46,6 +46,10 @@ class ComposerStaticInit126e5b2cd07e6078e52da987ffc61603
         'F' => 
         array (
             'Facebook\\' => 9,
+        ),
+        'B' => 
+        array (
+            'Buzz\\' => 5,
         ),
     );
 
@@ -108,6 +112,10 @@ class ComposerStaticInit126e5b2cd07e6078e52da987ffc61603
         array (
             0 => __DIR__ . '/..' . '/facebook/php-sdk-v4/src/Facebook',
         ),
+        'Buzz\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/kriswallsmith/buzz/lib/Buzz',
+        ),
     );
 
     public static $prefixesPsr0 = array (
@@ -145,13 +153,6 @@ class ComposerStaticInit126e5b2cd07e6078e52da987ffc61603
             'Guzzle' => 
             array (
                 0 => __DIR__ . '/..' . '/guzzle/guzzle/src',
-            ),
-        ),
-        'B' => 
-        array (
-            'Buzz' => 
-            array (
-                0 => __DIR__ . '/..' . '/kriswallsmith/buzz/lib',
             ),
         ),
     );

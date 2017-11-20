@@ -15,7 +15,7 @@ $config['default_template_css'] = 'assets/css/bootstrap.min.css';
 
 $config['codecanyon_username'] = 'nickenet';
 
-$config['codecanyon_code'] = 'eeeee';
+$config['codecanyon_code'] = 'bc41df12-ec39-4e3c-b3a8-c462babd43e7';
 
 $config['hash_function'] = 'hash';
 

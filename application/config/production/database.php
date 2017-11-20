@@ -51,9 +51,9 @@ $active_record = TRUE;
 
 //MySQL example
 $db['mysql']['hostname'] = 'localhost';
-$db['mysql']['username'] = 'root';
+$db['mysql']['username'] = 'nickeadmin';
 $db['mysql']['password'] = 's,az&QAt';
-$db['mysql']['database'] = 'allua_info_db';
+$db['mysql']['database'] = 'alluainfo_db';
 $db['mysql']['dbdriver'] = 'mysqli';
 $db['mysql']['dbprefix'] = '';
 $db['mysql']['pconnect'] = FALSE;

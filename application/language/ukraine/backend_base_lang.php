@@ -1,44 +1,37 @@
-<?php
+<?php 
 
-/* Base translations */
 $lang['lang_shortcode_2ch'] = "en";
-$lang['app_name'] = 'City Guide';
-
-/* Base */
-$lang['View All'] = "View all";
-$lang['Edit'] = "Edit";
-$lang['Delete'] = "Delete";
-$lang['Home'] = "Home";
-$lang['Save'] = "Save";
-$lang['Cancel'] = "Cancel";
-$lang['We could not find any'] = "We could not find any";
-$lang['Are you sure?'] = "Are you sure?";
-$lang['Visible in table'] = "Visible in table";
-$lang['Dashboard'] = "Dashboard";
-$lang['Short, basic informations'] = "Short, basic informations";
-$lang['Statistics'] = "Statistics";
-$lang['Data editing disabled in demo'] = "Data editing disabled in demo";
-$lang['Admin creditionals: admin, admin'] = "Admin creditionals: admin, admin";
-$lang['Agent creditionals: agent, agent'] = "Agent creditionals: agent, agent";
-$lang['Locked'] = "Locked";
-$lang['Visible in frontend'] = "Visible in frontend submission";
-$lang['After delete, template changes needed'] = "After delete, template changes needed";
-$lang['Copy to other languages'] = "Copy to other languages";
-$lang['Language locked, can\'t be deleted but you can change it!'] = "Selected language locked, can't be deleted but you can change it!";
-$lang['Back to homepage'] = "Back to homepage";
-$lang['Total Income'] = "Total Income";
-$lang['Listing views'] = "Listing views";
-$lang['Website link'] = "Website link";
-$lang['Preview'] = "Preview";
+$lang['app_name'] = "AllUA.Info";
+$lang['View All'] = "Дивитись все";
+$lang['Edit'] = "Редагувати";
+$lang['Delete'] = "Видалити";
+$lang['Home'] = "Головна";
+$lang['Save'] = "Зберегти";
+$lang['Cancel'] = "Скасувати";
+$lang['We could not find any'] = "Ми нічого не знайшли";
+$lang['Are you sure?'] = "Ви впевнені?";
+$lang['Visible in table'] = "Видно в таблиці";
+$lang['Dashboard'] = "Панель приладів";
+$lang['Short, basic informations'] = "Коротка, основна інформація";
+$lang['Statistics'] = "Статистика";
+$lang['Data editing disabled in demo'] = "В демо, редагування даних вимкнено";
+$lang['Admin creditionals: admin, admin'] = "Дані адміністратора: admin, admin";
+$lang['Agent creditionals: agent, agent'] = "Дані агента: agent, agent";
+$lang['Locked'] = "Заблокований";
+$lang['Visible in frontend'] = "Зовнішній виглядfrontend";
+$lang['After delete, template changes needed'] = "Після видалення необхідні зміни шаблону";
+$lang['Copy to other languages'] = "Скопіювати на інші мови";
+$lang['Language locked, can\'t be deleted but you can change it!'] = "Вибрана мова заблокована, її не можна видалити, але ви можете її змінити!";
+$lang['Back to homepage'] = "Перейти на головну";
+$lang['Total Income'] = "Загальний дохід";
+$lang['Listing views'] = "Перегляд списків";
+$lang['Website link'] = "Посилання на веб-сайт";
+$lang['Preview'] = "Попередній перегляд";
 $lang['URI slug'] = "URI slug";
-$lang['Google Maps API key'] = "Google Maps API key";
-$lang['View all templates'] = "View all templates";
+$lang['Google Maps API key'] = "Ключ API Google Maps";
+$lang['View all templates'] = "Переглянути всі шаблони";
 $lang[''] = "";
-$lang[''] = "";
 
-
-
-/* languages */
 $lang['croatian'] = "Croatian";
 $lang['english'] = "English";
 $lang['slovenian'] = "Slovenian";
@@ -47,12 +40,6 @@ $lang['france'] = "France";
 $lang['dutch'] = "Dutch";
 $lang['serbian'] = "Serbian";
 $lang['turkish'] = "Turkish";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-
-
-/* User translations */
 $lang['Username'] = "Username";
 $lang['Logout'] = "Logout";
 $lang['That email/password combination does not exists or account not activated'] = "That email/password combination does not exists or account not activated";
@@ -86,26 +73,13 @@ $lang['AGENT_ADMIN'] = "Agent admin";
 $lang['AGENT_LIMITED'] = "Agent limited";
 $lang['USER'] = "Visitor";
 $lang['Profile'] = "Profile";
-$lang['Language'] = "Language";
+$lang['Language'] = "Мова";
 $lang['Images'] = "Images";
 $lang['Activated'] = "Activated";
 $lang['Export user list'] = "Export user list (For newsletter)";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-
-/* Enqueries */
 $lang['Enquires'] = "Inquiries";
 $lang['FromDate'] = "From Date";
 $lang['ToDate'] = "To Date";
-$lang[''] = "";
-$lang[''] = "";
-
-/* Pages */
 $lang['Pages'] = "Pages";
 $lang['Add a page'] = "Add a page";
 $lang['View all pages'] = "View all pages";
@@ -113,11 +87,10 @@ $lang['Page'] = "Page";
 $lang['Edit page'] = "Edit page";
 $lang['Page data'] = "Page data";
 $lang['Parent'] = "Parent";
-$lang['Template'] = "Template";
+$lang['Template'] = "Design template";
 $lang['Title'] = "Title";
 $lang['Slug'] = "Slug";
 $lang['Body'] = "Body";
-$lang['Language'] = "Language";
 $lang['No parent'] = "No parent";
 $lang['Navigation title'] = "Navigation title";
 $lang['Homepage'] = "Homepage";
@@ -128,25 +101,14 @@ $lang['Contact page'] = "Contact page";
 $lang['Keywords'] = "Keywords";
 $lang['Customsearch'] = "Custom search example";
 $lang['Show as'] = "Show as";
-$lang['Page'] = "Page";
 $lang['Article'] = "Article";
 $lang['Just 2 page levels allowed'] = "Just 2 page levels allowed";
 $lang['Visible in menu'] = "Visible in menu";
 $lang['Visible for logged users'] = "For logged users only";
 $lang['Template headers'] = "Template headers";
 $lang['Template footers'] = "Template footers";
-$lang[''] = "";
-$lang[''] = "";
-
-/* templates */
 $lang['Contact'] = "Contact";
 $lang['Homepage-slideshow'] = "Homepage with slideshow";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-
-/* Estates */
 $lang['Estates'] = "Locations";
 $lang['View all estates'] = "View all locations";
 $lang['Add a estate'] = "Add a location";
@@ -154,14 +116,12 @@ $lang['DateTime'] = "Date and time";
 $lang['Gps'] = "Gps coordinates";
 $lang['Estate'] = "Location";
 $lang['Edit estate'] = "Edit location";
-$lang['Add a estate'] = "Add a location";
 $lang['Estate data'] = "Location data";
 $lang['Location'] = "Location";
 $lang['Estate Options'] = "Location fields";
 $lang['View all options'] = "View all fields";
-$lang['Add a option'] = "Add a fields";
-$lang['Option'] = "Field";
 $lang['Add a option'] = "Add a field";
+$lang['Option'] = "Field";
 $lang['Edit option'] = "Edit field";
 $lang['Option data'] = "Field data";
 $lang['Values'] = "Values";
@@ -184,8 +144,7 @@ $lang['Featured'] = "Featured";
 $lang['Agent'] = "Agent";
 $lang['Manage'] = "Manage";
 $lang['Current user'] = "Current user / Not defined";
-$lang[''] = "";
-$lang['Delete disabled, child or element locked/hardlocked! But you can change or unlock it.'] = 'Delete disabled, child or element locked/hardlocked! But you can change or unlock it.';
+$lang['Delete disabled, child or element locked/hardlocked! But you can change or unlock it.'] = "Delete disabled, child or element locked/hardlocked! But you can change or unlock it.";
 $lang['Deactivate all estates'] = "Deactivate user locations";
 $lang['Activate all estates'] = "Activate user locations";
 $lang['All properties from specific user is deactivated!'] = "All locations from specific user is deactivated!";
@@ -197,11 +156,6 @@ $lang['Visible on preview page'] = "Visible on preview page";
 $lang['Hidden on preview page'] = "Hidden on preview page";
 $lang['Translate to other languages'] = "Translate to other languages";
 $lang['Custom path title'] = "Custom path title";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-
-/* Files upload */
 $lang['add_files...'] = "Add files";
 $lang['cancel_upload'] = "Cancel";
 $lang['delete_selected'] = "Delete selected";
@@ -211,27 +165,19 @@ $lang['previous'] = "Previous";
 $lang['slideshow'] = "Slider";
 $lang['download'] = "Download";
 $lang['After saving, you can add files and images'] = "After saving, you can add files and images";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-
-/* Settings */
 $lang['Settings'] = "Settings";
 $lang['System settings'] = "System settings";
 $lang['Company contact'] = "Company contact";
 $lang['ContactMail'] = "Contact e-mail";
 $lang['Company data'] = "Company data";
-$lang['Template'] = "Design template";
 $lang['Tracking'] = "Analytics code";
-$lang['Languages'] = "Languages";
-$lang['Template settings'] = "Template settings";
-$lang['Website language'] = "Website language";
+$lang['Languages'] = "Мови";
+$lang['Template settings'] = "Налаштування шаблону";
+$lang['Website language'] = "Мова веб-сайту";
 $lang['We could not find any languages'] = "We could not find any languages";
 $lang['Default'] = "Default";
-$lang['Code'] = "Code";
-$lang['Add language'] = "Add language";
+$lang['Code'] = "Код";
+$lang['Add language'] = "Додати мову";
 $lang['Language from lang file'] = "Language name from lang file";
 $lang['Fax'] = "Fax";
 $lang['Address Footer'] = "Address Footer";
@@ -245,49 +191,19 @@ $lang['Email alerts on new not actiated property'] = "Email alerts on new not ac
 $lang['Facebook or Social code'] = "Facebook or Social code (footer)";
 $lang['Facebook Javascript SDK code'] = "Facebook Javascript SDK code";
 $lang['Facebook comments code'] = "Facebook comments code";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-
-/* Slideshow */
 $lang['Slideshow'] = "Slider";
 $lang['Edit slideshow'] = "Edit slider";
 $lang['Slideshow images'] = "Slider images";
 $lang['After saving, you can add images'] = "After saving, you can add images";
 $lang['Homepage Slideshow'] = "Homepage Slider";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-
-/*Contact frontend page*/
 $lang['FirstLast'] = "Name and surname";
 $lang['Email'] = "E-mail";
 $lang['Message'] = "Message";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-
-/*Register*/
 $lang['Register'] = "Register";
 $lang['Already Registred?'] = "Already Registered?";
 $lang['Login here'] = "Login here";
 $lang['Thanks on registration, please wait account activation'] = "Registration in progress. Please wait for account activation.";
 $lang['You have no permissions'] = "You have no permissions";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-
-/* Enquires */
 $lang['Date'] = "Date";
 $lang['We could not find any messages'] = "We could not find any messages";
 $lang['Not readed'] = "Not Read";
@@ -300,17 +216,8 @@ $lang['Enquire data'] = "Inquiry data";
 $lang['Readed'] = "Read";
 $lang['Reply to email'] = "Reply to email";
 $lang['Reply on question for real estate'] = "Reply on question for location";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
 $lang['Alredy translated'] = "Already translated";
 $lang['Is RTL'] = "Is it R-T-L";
-
-/* News */
 $lang['News'] = "News/Blog";
 $lang['Categories'] = "Categories";
 $lang['View all categories'] = "View all categories";
@@ -324,17 +231,6 @@ $lang['Edit news'] = "Edit news";
 $lang['News data'] = "News data";
 $lang['No category'] = "No category";
 $lang['Date publish'] = "Date publish";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-
-/* Ads */
 $lang['Ads'] = "Ads";
 $lang['View all ads'] = "View all ads";
 $lang['Add ads'] = "Add ads";
@@ -348,13 +244,6 @@ $lang['Random'] = "Rotate Random";
 $lang['Width'] = "Width";
 $lang['Height'] = "Height";
 $lang['Link'] = "Link";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-
-/* Showroom */
 $lang['Showroom'] = "Showroom";
 $lang['Add showroom'] = "Add showroom";
 $lang['View all showrooms'] = "View all showrooms";
@@ -362,16 +251,6 @@ $lang['Window Title'] = "Window Title";
 $lang['Showroom data'] = "Showroom data";
 $lang['Edit showroom'] = "Edit showroom";
 $lang['Contact Email'] = "Contact Email";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-
-/* Q&A, Ask an Expert module */
 $lang['Question'] = "Question";
 $lang['Answer'] = "Answer";
 $lang['Q&A'] = "Q&A";
@@ -384,12 +263,6 @@ $lang['Edit question'] = "Edit question";
 $lang['Question data'] = "Question data";
 $lang['Expert'] = "Expert";
 $lang['Not selected'] = "Not selected";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-
-/* Booking */
 $lang['Booking'] = "Booking";
 $lang['Reservations'] = "Reservations";
 $lang['Rates'] = "Rates";
@@ -403,7 +276,6 @@ $lang['Rate weekly'] = "Rate weekly";
 $lang['Rate monthly'] = "Rate monthly";
 $lang['Currency code'] = "Currency code";
 $lang['Edit rate'] = "Edit rate";
-$lang['Add rate'] = "Add rate";
 $lang['Rates data'] = "Rates data";
 $lang['Property'] = "Location";
 $lang['View all reservations'] = "View all reservations";
@@ -413,7 +285,6 @@ $lang['Total price'] = "Total price";
 $lang['Total paid'] = "Total paid";
 $lang['Date paid advance'] = "Date paid advance";
 $lang['Date paid total'] = "Date paid total";
-$lang['Add reservation'] = "Add reservation";
 $lang['Edit reservation'] = "Edit reservation";
 $lang['Reservations data'] = "Reservations data";
 $lang['Please correct dates'] = "Please correct dates";
@@ -431,10 +302,6 @@ $lang['Value'] = "Value";
 $lang['Invoice num'] = "Invoice num";
 $lang['Listing expiry days'] = "Listing expiry days";
 $lang['Expired'] = "Expired";
-$lang[''] = "";
-$lang[''] = "";
-
-/* Packages */
 $lang['Packages'] = "Packages";
 $lang['View all packages'] = "View all packages";
 $lang['Add package'] = "Add package";
@@ -459,18 +326,11 @@ $lang['Activation price'] = "Activation price";
 $lang['Default currency code'] = "Default currency code";
 $lang['Monetize'] = "Monetize";
 $lang['Activations'] = "Activations";
-$lang['Paid'] = "Paid";
 $lang['Estate id'] = "Location id";
 $lang['User id'] = "User id";
 $lang['Property id'] = "Location id";
 $lang['Show private listings'] = "Show private listings";
 $lang['Auto activate properties'] = "Auto activate locations";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-
-
-/* Forget password */
 $lang['Num listings max. reached for your package'] = "Num listings max. reached for your package";
 $lang['Date for your package expired, please extend'] = "Date for your package expired, please extend";
 $lang['Forget password?'] = "Forget password?";
@@ -487,7 +347,6 @@ $lang['Prefix'] = "Prefix";
 $lang['AdSense 728x90 code'] = "AdSense 728x90 code";
 $lang['AdSense 160x600 code'] = "AdSense 160x600 code";
 $lang['Featured price'] = "Featured price";
-$lang['Featured'] = "Featured";
 $lang['Withdrawal payment details'] = "Bank payment details";
 $lang['Translate with MyMemory API'] = "Translate with MyMemory API";
 $lang['Facebook ID'] = "Facebook ID";
@@ -496,17 +355,6 @@ $lang['Pages & menu'] = "Pages & menu";
 $lang['Agents & Users'] = "Agents & Users";
 $lang['Company details'] = "Company details";
 $lang['Enable masking'] = "Enable masking";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-
-/* Backups */
 $lang['System'] = "System";
 $lang['Backup'] = "Backup";
 $lang['Backups'] = "Backups";
@@ -521,9 +369,6 @@ $lang['Default PayPal currency code'] = "Default PayPal currency code";
 $lang['Flexible'] = "Flexible";
 $lang['Payer email'] = "Payer email";
 $lang['Date paid'] = "Date paid";
-$lang[''] = "";
-
-/* Reviews */
 $lang['Enable reviews public visible'] = "Enable reviews public visible";
 $lang['Enable reviews'] = "Enable reviews";
 $lang['Enable rating'] = "Enable rating";
@@ -538,9 +383,6 @@ $lang['Edit review'] = "Edit review";
 $lang['Review data'] = "Review data";
 $lang['Views'] = "Views";
 $lang['Useful links'] = "Useful links code";
-$lang[''] = "";
-
-/* For email templates */
 $lang['Changes on your user profile'] = "Changes on your user profile";
 $lang['Problem sending email to user'] = "Problem sending email to user";
 $lang['Edit profile link'] = "Edit profile link";
@@ -551,10 +393,8 @@ $lang['address'] = "Address";
 $lang['description'] = "Description";
 $lang['phone'] = "Phone";
 $lang['type'] = "Type";
-$lang['language'] = "Language";
+$lang['language'] = "Мова";
 $lang['profile_link'] = "Edit your profile";
-
-/* For Research */
 $lang['Research'] = "Research";
 $lang['View all researches'] = "View all researches";
 $lang['Add research'] = "Add research";
@@ -567,12 +407,6 @@ $lang['New listing from your saved research!'] = "New listings from your saved r
 $lang['Check out property'] = "Check out location";
 $lang['Manage your saved researches'] = "Manage your saved researches";
 $lang['User type'] = "User type";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-
-/* TreeField */
 $lang['TREE'] = "Tree Field";
 $lang['Edit tree values'] = "Edit tree values";
 $lang['Available after saving'] = "Available after saving";
@@ -581,7 +415,6 @@ $lang['Add a TreeField'] = "Add a TreeField";
 $lang['Edit TreeField'] = "Edit TreeField";
 $lang['Field'] = "Field";
 $lang['TreeField value data'] = "TreeField value data";
-$lang['Value'] = "Value";
 $lang['You can also add multiple values (without spaces) test1,test2 when adding.'] = "You can also add multiple values (without spaces) test1,test2 when adding.";
 $lang['Add new'] = "Add new";
 $lang['Multiple values disabled in edit mode'] = "Multiple values disabled in edit mode";
@@ -599,29 +432,9 @@ $lang['treefield_64_1'] = "Select City";
 $lang['treefield_64_2'] = "Select Zone";
 $lang['treefield_64_3'] = "Select Neighbourhood";
 $lang['Access not allowed'] = "Access not allowed";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-
-
-/* favorites */
 $lang['Favorites'] = "Favorites";
 $lang['View all favorites'] = "View all favorites";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-
-/* File upload */
 $lang['UPLOAD'] = "File upload";
-$lang[''] = "";
-$lang[''] = "";
-
-
-
-/* Phone number verification */
 $lang['Verify your phone number'] = "Verify your phone number";
 $lang['Send new verification message'] = "Send new verification message";
 $lang['Your phone number'] = "Your phone number";
@@ -634,68 +447,25 @@ $lang['Thank you, phone number verified!'] = "Thank you, phone number verified!"
 $lang['Wrong verification code!'] = "Wrong verification code!";
 $lang['Phone verified'] = "Phone verified";
 $lang['Mail verified'] = "Mail verified";
-$lang[''] = "";
-
-/* Agent search */
 $lang['Smart agent search'] = "ID, Username, Address, Name, Surname...";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-
-/* Activation email */
 $lang['Thank you, email verified and account activated!'] = "Thank you, email verified and account activated!";
-$lang['Link not valid'] = "Link not valid";
 $lang['Verify your email'] = "Verify your email";
 $lang['Address not found!'] = "Address not found!";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-
-
-/* Authorize.net */
 $lang['Authorize api login id'] = "Authorize api login id";
 $lang['Authorize api hash secret'] = "Authorize api hash secret";
 $lang['Authorize api transaction key'] = "Authorize api transaction key";
 $lang['with PayPal'] = "with PayPal";
 $lang['with CreditCard'] = "with CreditCard";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-
-/* RSS api */
 $lang['WebsiteTitle'] = "Website Title";
 $lang['You can also add multiple values (without spaces) "test1,test2" when adding.'] = "You can also add multiple values (without spaces) \"test1,test2\" when adding.";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-
-/* Treefield pages */
 $lang['Page Title'] = "Page Title";
-$lang['You can also add multiple values (without spaces) "test1,test2" when adding.'] = "You can also add multiple values (without spaces) \"test1,test2\" when adding.";
-$lang[''] = "";
-
-/* Custom SEO slugs */
 $lang['SEO slugs'] = "SEO slugs";
 $lang['Add SEO slug'] = "Add SEO slug";
 $lang['Custom SEO slugs'] = "Custom SEO slugs";
 $lang['SEO slug'] = "SEO slug";
 $lang['Real URL'] = "Real URL";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-
-/* Favorites alerts */
 $lang['Changes on your property favorites!'] = "Changes on your location favorites!";
 $lang['Manage your favorites'] = "Manage your favorites";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-
-
-/* Numeric fields */
 $lang['DECIMAL'] = "Decimal input";
 $lang['INTEGER'] = "Integer input";
 $lang['Required'] = "Required";
@@ -708,7 +478,6 @@ $lang['Image exceeds maximum width'] = "Image exceeds maximum width";
 $lang['Maximum number of files exceeded'] = "Maximum number of files exceeded";
 $lang['File is too big'] = "File is too big";
 $lang['Filetype not allowed'] = "Filetype not allowed";
-$lang['Image exceeds maximum width'] = "Image exceeds maximum width";
 $lang['Image requires a minimum width'] = "Image requires a minimum width";
 $lang['Image exceeds maximum height'] = "Image exceeds maximum height";
 $lang['Image requires a minimum height'] = "Image requires a minimum height";
@@ -742,7 +511,6 @@ $lang['Table report'] = "Table report";
 $lang['Totals'] = "Totals";
 $lang['The number of properties Total Sold or Rented'] = "The number of locations Total Sold or Rented";
 $lang['MQ2'] = "MQ2";
-$lang['Map report'] = "Map report";
 $lang['Please enter empty database!'] = "Please enter empty database!";
 $lang['SHOW TABLES Syntax - MySQL, access denied'] = "SHOW TABLES Syntax - MySQL, access denied";
 $lang['Enable showroom slideshow'] = "Enable showroom slideshow";
@@ -769,7 +537,6 @@ $lang['Price'] = "Price";
 $lang['Sub total'] = "Sub total";
 $lang['backup_suggestions'] = "* We can't guarentee that your backup will work, please test it to be sure. Database backup is also suggested via phpMyAdmin or backup2mail: http://www.backup2mail.com/";
 $lang['Website logo'] = "Website logo";
-$lang['Default'] = "Default";
 $lang['Num featured limit'] = "Num featured limit";
 $lang['Featured limitation reached in your package!'] = "Featured limitation reached in your package!";
 $lang['Benchmark tools'] = "Benchmark tools";
@@ -779,11 +546,6 @@ $lang['Run tool'] = "Run tool";
 $lang['Generate fake properties'] = "Generate fake locations";
 $lang['Generate sitemap'] = "Generate sitemap";
 $lang['View last added properties'] = "View last added locations";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-
-// Booking import
 $lang['Transitions id'] = "Transitions id";
 $lang['Import rates via XML'] = "Import rates via XML";
 $lang['XML File'] = "XML File";
@@ -800,15 +562,11 @@ $lang['Smart item search'] = "ID, Address, City, County...";
 $lang['Enable payments'] = "Enable payments";
 $lang['with bank payment'] = "with bank payment";
 $lang['Walkscore enabled'] = "Walkscore enabled";
-$lang[''] = "";
-
-// Dependent fields
 $lang['Dependent fields'] = "Dependent fields";
 $lang['View all dependent fields'] = "View all dependent fields";
 $lang['Add dependent field'] = "Add dependent field";
 $lang['Wrong value'] = "Wrong value";
 $lang['Dependent field'] = "Dependent field";
-$lang['Add dependent field'] = "Add dependent field";
 $lang['Edit dependent field'] = "Edit dependent field";
 $lang['Dependent field data'] = "Dependent field data";
 $lang['Selected index'] = "Selected index";
@@ -824,12 +582,6 @@ $lang['youtube_link'] = "Youtube link";
 $lang['gplus_link'] = "Googleplus link";
 $lang['twitter_link'] = "Twitter link";
 $lang['linkedin_link'] = "Linkedin link";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-
-// Visual templates
 $lang['Visual templates editor'] = "Visual templates editor";
 $lang['Manage templates'] = "Manage templates";
 $lang['Add template'] = "Add template";
@@ -841,7 +593,6 @@ $lang['Drag from here'] = "Drag from here";
 $lang['Drop to here'] = "Drop to here";
 $lang['Already added'] = "Already added";
 $lang['Please drag some widgets'] = "Please drag some widgets";
-$lang['Edit template'] = "Edit template";
 $lang['Files editor'] = "Files editor";
 $lang['Template files list'] = "Template files list";
 $lang['Filename'] = "Filename";
@@ -868,8 +619,6 @@ $lang['Class'] = "Class";
 $lang['Removing disabled by configuration'] = "Removing disabled by configuration";
 $lang['Query failed, probably permissions on db missing'] = "Query failed, probably permissions on db missing";
 $lang['Enable numerical filtering'] = "Enable numerical filtering";
-$lang[''] = "";
-
 $lang['Masking submissions'] = "Masking submissions";
 $lang['Hidden on submission'] = "Hidden on submission";
 $lang['Facebook or Social code on Top'] = "Facebook or Social code on Top";
@@ -879,26 +628,12 @@ $lang['addons_note'] = "* All plugins are not compatible with all available them
 $lang['Data editing disabled because of language permissions'] = "Data editing disabled because of language permissions";
 $lang['Data editing disabled because of chmod permissions'] = "Data editing disabled because of chmod permissions";
 $lang['File is not writable'] = "File is not writable";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-
-
-
-
-
 $lang['with CreditCard payu'] = "with CreditCard payu";
 $lang['Add multiple reservations'] = "Add multiple reservations";
 $lang['Calendar'] = "Calendar";
 $lang['Dates'] = "Dates";
 $lang['Multiple inserted'] = "Multiple inserted";
 $lang['Nothing inserted, reservations already exists'] = "Nothing inserted, reservations already exists";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-
 $lang['AGENT_COUNTY_AFFILIATE'] = "Agent county affiliate";
 $lang['County'] = "County";
 $lang['Last admin cant be removed'] = "Last admin can't be removed";
@@ -915,8 +650,6 @@ $lang['Affilate package'] = "Affilate package";
 $lang['Already purchased'] = "Already purchased";
 $lang['Available'] = "Available";
 $lang['Payment details'] = "Payment details";
-$lang[''] = "";
-
 $lang['Quick reply'] = "Quick reply";
 $lang['Send message'] = "Send message";
 $lang['Reply message'] = "Reply message";
@@ -939,8 +672,6 @@ $lang['Frequency of the delivery'] = "Frequency of the delivery";
 $lang['Instant'] = "Instant";
 $lang['Daily'] = "Daily";
 $lang['Weekly'] = "Weekly";
-$lang[''] = "";
-
 $lang['Property expiration soon!'] = "Property expiration soon!";
 $lang['Profile gallery instructions'] = "By order, first image will be used as profile and second as agency logo.";
 $lang['Edit image'] = "Edit image";
@@ -951,11 +682,7 @@ $lang['PEDIGREE'] = "Pedigree tree";
 $lang['Click for Add'] = "Click for Add";
 $lang['Click for Edit'] = "Click for Edit";
 $lang['Click for Delete'] = "Click for Delete";
-$lang['Title'] = "Title";
 $lang['Submit'] = "Save";
-
-
-
 $lang['TCalendar'] = "Table Calendar";
 $lang['View all dates'] = "View all dates";
 $lang['Add date range'] = "Add date range";
@@ -976,7 +703,6 @@ $lang['XML file is not correct'] = "XML file is not correct";
 $lang['Import from CSV'] = "Import from CSV";
 $lang['Export CSV'] = "Export CSV";
 $lang['Default Currency'] = "Default Currency";
-
 $lang['Main image'] = "Main image";
 $lang['Apartment'] = "Apartment";
 $lang['Please order images as described'] = "Please order images as described";
@@ -985,8 +711,6 @@ $lang['Add multiple rates (summer)'] = "Add multiple rates (summer)";
 $lang['Months'] = "Months";
 $lang['Multiple rates added'] = "Multiple rates added";
 $lang['Summer dates already defined'] = "Summer dates already defined";
-$lang[''] = "";
-
 $lang['CSV File'] = "CSV File";
 $lang['CSV Url'] = "CSV Url";
 $lang['Example CSV file'] = "Example CSV file";
@@ -1005,74 +729,28 @@ $lang['allow_contact'] = "Allow contact";
 $lang['Reply on report for real estate'] = "Reply on report for real estate";
 $lang['Reporte from real-estate web'] = "Reporte from real-estate web";
 $lang['Compare listings'] = "Compare listings";
-$lang['Title'] = "Title";
 $lang['Name'] = "Name";
 $lang['Facebook lang code'] = "Facebook lang code";
 $lang['Property submission disabled'] = "Property submission disabled";
-
 $lang['You have up to 7 days to review the listing and submit it again'] = "You have up to 7 days to review the listing and submit it again";
 $lang['Property deleted for non-compliance!'] = "Property deleted for non-compliance!";
 $lang['Your listing'] = "Your listing";
 $lang['has being permanently deleted for non-compliance.'] = "has being permanently deleted for non-compliance.";
-
-
 $lang['Decline'] = "Decline";
 $lang['Status'] = "Status";
 $lang['On hold'] = "On hold";
 $lang['Approve'] = "Approve";
 $lang['Your property on hold!'] = "Your property on hold!";
-$lang['Your property on hold message'] = "
-Dear user, One of our team members from your county has a special interest in your property.
-During the next 48 hours, one of the two following actions MUST happen, otherwise,
-you need to contact us immediately because something went wrong.
-
-<ol>
-<li>Your property was approved and therefore listed in our website (you received confirmation of this along with your link).</li>
-<li>One of our team members with the especial interest in your property contacts you and conclude a mutual agreement with you to contract and buy the property, and therefore, the property will never be listed.</li>
-</ol>
-
-If for any reason, your property has not being listed in our website during the next 48 hours, 
-nor one of our team members has not contacted you with the intention of buying and therefore contracted 
-it from you to purchase it, you need to immediately contact us at: action@rehabzoo.com 
-to create a ticket support and therefore, investigate this incident.
-However, if our team member does contact you and mutually agree with you to purchase your property, 
-he/she is responsible to deliver as promised. If he/she does not comply with closing after contracting your property
-We want to hear from you as well so we can take further action. So please send us an email to action@rehabzoo.com 
-at your earliest convenience. If you do not contact us, we will not know, and therefore, 
-we cannot guarantee that any other action will be taken with your submission including not guaranteeing
-that it will ever be displayed in our website rehabzoo.com. 
-";
+$lang['Your property on hold message'] = "Dear user, One of our team members from your county has a special interest in your property.During the next 48 hours, one of the two following actions MUST happen, otherwise,you need to contact us immediately because something went wrong.<ol><li>Your property was approved and therefore listed in our website (you received confirmation of this along with your link).</li><li>One of our team members with the especial interest in your property contacts you and conclude a mutual agreement with you to contract and buy the property, and therefore, the property will never be listed.</li></ol>If for any reason, your property has not being listed in our website during the next 48 hours, nor one of our team members has not contacted you with the intention of buying and therefore contracted it from you to purchase it, you need to immediately contact us at: action@rehabzoo.com to create a ticket support and therefore, investigate this incident.However, if our team member does contact you and mutually agree with you to purchase your property, he/she is responsible to deliver as promised. If he/she does not comply with closing after contracting your propertyWe want to hear from you as well so we can take further action. So please send us an email to action@rehabzoo.com at your earliest convenience. If you do not contact us, we will not know, and therefore, we cannot guarantee that any other action will be taken with your submission including not guaranteeingthat it will ever be displayed in our website rehabzoo.com. ";
 $lang['Contract property'] = "Contract property";
 $lang['Your property purchased!'] = "Your property purchased!";
-$lang['Your property purchased message'] = "
-CONGRATULATIONS: Our local team member in your county has decided to contract and purchase your property.
-At this point you and him/her have come to an agreement and should already be discussing a closing date.
-Please keep in mind that all of our team members are a reflection of our image, and therefore,
-are regulated by our staff to ensure that the promise and agreement to purchase your property is delivered.
-So If he/she does not comply with closing after contracting your property
-We want to hear from you as well so we can take further action.
-So please send us an email to action@rehabzoo.com (for this email I need a case support system )at your earliest convenience.
-If you do not contact us, we will not know, and therefore, we cannot guarantee that any other action will be taken with your
-submission including not guaranteeing that it will ever be displayed in our website rehabzoo.com.
-";
+$lang['Your property purchased message'] = "CONGRATULATIONS: Our local team member in your county has decided to contract and purchase your property.At this point you and him/her have come to an agreement and should already be discussing a closing date.Please keep in mind that all of our team members are a reflection of our image, and therefore,are regulated by our staff to ensure that the promise and agreement to purchase your property is delivered.So If he/she does not comply with closing after contracting your propertyWe want to hear from you as well so we can take further action.So please send us an email to action@rehabzoo.com (for this email I need a case support system )at your earliest convenience.If you do not contact us, we will not know, and therefore, we cannot guarantee that any other action will be taken with yoursubmission including not guaranteeing that it will ever be displayed in our website rehabzoo.com.";
 $lang['Contracted'] = "Contracted";
 $lang['View contracted estates'] = "View contracted estates";
 $lang['Agent affilate violation of terms!'] = "Agent affilate violation of terms!";
-$lang['user_affilate_violation_terms'] = "
-Sorry... We are so embarrassed. Something has gone wrong in our process and your submission has been forwarded 
-to our administration department for further action. Please allow up to 24 to 48 hours for review and the final completion of your submission. 
-We guarantee you there will not be any further delays past this last step of the process.
-Sorry for the inconvenience and thank you for understanding.
-";
+$lang['user_affilate_violation_terms'] = "Sorry... We are so embarrassed. Something has gone wrong in our process and your submission has been forwarded to our administration department for further action. Please allow up to 24 to 48 hours for review and the final completion of your submission. We guarantee you there will not be any further delays past this last step of the process.Sorry for the inconvenience and thank you for understanding.";
 $lang['admin_affilate_violation_terms'] = "Decide about possible affilate account termination and edit property because HOLD time expired!";
-$lang['agent_affilate_violation_terms'] = "
-You selected to HOLD the property located at: {address} was submitted on {date_submit}.
-However, during the 48 hours of holding time you did not take any action to either approve or contract said property.
-Your 48 hours of holding time have expired and this is in direct violation of our terms of agreement.
-Rehabzoo.com reserves the right to terminate your agreement at any time for non-performance or malpractice of our rules and regulations.
-Please do not let this happen again in order to avoid possible termination.
-Please be aware that the site administrator has being notified of this incident and it has been recorded in our logs for future reference.
-";
+$lang['agent_affilate_violation_terms'] = "You selected to HOLD the property located at: {address} was submitted on {date_submit}.However, during the 48 hours of holding time you did not take any action to either approve or contract said property.Your 48 hours of holding time have expired and this is in direct violation of our terms of agreement.Rehabzoo.com reserves the right to terminate your agreement at any time for non-performance or malpractice of our rules and regulations.Please do not let this happen again in order to avoid possible termination.Please be aware that the site administrator has being notified of this incident and it has been recorded in our logs for future reference.";
 $lang['Statuses'] = "Statuses";
 $lang['View estate statuses'] = "View estate statuses";
 $lang['Properties Pending Review'] = "Properties Pending Review";
@@ -1084,48 +762,25 @@ $lang['Contracted on'] = "Contracted on";
 $lang['You have'] = "You have";
 $lang['hours left to take final action'] = "hours left to take final action";
 $lang['hours left to review'] = "hours left to review";
-$lang['agent_affilate_review_violation_terms'] = "
-Property has being forwarded to the website's administrator.
-Rehabzoo.com does not tolerate the no-action against the submissions (within 48 hours of initial submission) and 
-Rehabzoo reserves the right to terminate your contract if this is to ever happen again.";
+$lang['agent_affilate_review_violation_terms'] = "Property has being forwarded to the website's administrator.Rehabzoo.com does not tolerate the no-action against the submissions (within 48 hours of initial submission) and Rehabzoo reserves the right to terminate your contract if this is to ever happen again.";
 $lang['admin_affilate_review_violation_terms'] = "Decide about possible affilate account termination and edit property because REVIEW time expired!";
-
 $lang['price-reduced-badget'] = "Back on the market. Price Dropped!";
 $lang['Property expired!'] = "Property expired!";
-$lang['property-expired-message'] = "
-Your property's listing at: {address} has expired. At this point you can access your account and repost it but keep
-in mind that you only have 30 days to do this before the listing is completely deleted from our system. Keep in mind that during these 30 days 
-of grace period for your expired listing, YOU ARE RUNNING THE RISK of anybody else taking over the listing's privileges for this property. 
-To avoid this, log into your account and repost your property in order to make it active again and gain 30 more days of exposure. By reposting it, 
-you will also have the opportunity to redeliver it by email to all the local subscribers of your county, if you decrease the sales price by a 10% or 
-more from its original listing price.
-";
-
+$lang['property-expired-message'] = "Перелік ваших об'єктів на: {address} закінчився. На цьому етапі ви можете отримати доступ до свого облікового запису та надіслати його, але пам'ятаєте, що у вас є лише 30 днів для цього, перш ніж виключити листи повністю з нашої системи. Майте на увазі, що протягом цих 30 днів пільгового періоду для вашого списку, що закінчився терміном дії, ви працюєте за ризиком того, що хтось інший приймає права на лістинг для цієї власності. Щоб уникнути цього, увійдіть у свій акаунт і перекажіть свою власність, щоб вона знову була активною та отримала ще 30 днів. Виставивши це, ви також матимете можливість поповнити його по електронній пошті всім місцевим абонентам вашого округу, якщо ви зменшите ціну продажу на 10% або більше від початкової ціни списку.";
 $lang['Removed'] = "Removed";
 $lang['Submission'] = "Submission";
 $lang['Expire'] = "Expire";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-
 $lang['Mobile phone'] = "Mobile phone";
-
 $lang['Treefield values'] = "Treefield values";
 $lang['Not supported by selected template'] = "Not supported by selected template";
-
 $lang['Type is not suitable'] = "Type is not suitable";
-$lang[''] = "";
-
 $lang['Custom fields'] = "Custom fields";
 $lang['Manage custom user fields'] = "Manage custom user fields";
 $lang['Custom fields code'] = "Custom fields code";
 $lang['Label'] = "Label";
-
 $lang['Your package expire!'] = "Your package expire!";
 $lang['We want to inform you that your package expired.'] = "We want to inform you that your package expired.";
 $lang['Please login and extend your package'] = "Please login and extend your package";
-$lang[''] = "";
-
 $lang['Add page template'] = "Add page template";
 $lang['Page templates'] = "Page templates";
 $lang['Add listing template'] = "Add listing template";
@@ -1135,42 +790,24 @@ $lang['Add result item template'] = "Add result item template";
 $lang['Result item templates'] = "Result item templates";
 $lang['Edit result item template'] = "Edit result item template";
 $lang['Supported only for PRIMARY form'] = "Supported only for PRIMARY form";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-
 $lang['treefield_79_0'] = "Listing category";
 $lang['treefield_79_1'] = "Listing sub-category";
-$lang[''] = "";
-
 $lang['Hint'] = "Hint";
-$lang[''] = "";
-$lang[''] = "";
-
 $lang['Examples and guides'] = "Examples and guides";
-
 $lang['In values for field_id'] = "In values for field_id";
 $lang['and lang code'] = "and lang code";
 $lang['missing value'] = "missing value";
 $lang['Please add new value for field and continue import'] = "Please add new value for field and continue import";
 $lang['Edit field'] = "Edit field";
-
-$lang[''] = "";
 $lang['DROPDOWN_MULTIPLE'] = "Drop down menu (multiple select)";
 $lang['DATETIME'] = "Date Time";
 $lang['Page offline'] = "Page offline";
 $lang['Page offline message'] = "Page offline message";
-
-$lang['Imports'] = "Imports";
 $lang['Exports'] = "Exports";
 $lang['Max images per property'] = "Max images per property";
-$lang['XML Url'] = "XML Url";
 $lang['Update/Import completed'] = "Update/Import completed";
-$lang['Example XML file'] = "Example XML file";
 $lang['max_exec_time reached, you can import again'] = "Max_exec_time reached, you can import again";
 $lang['Added/Overwrited'] = "Added/Overwrited";
-
-/* Eventful */
 $lang['Import from eventful'] = "Import from eventful";
 $lang['Eventful categories'] = "Eventful categories";
 $lang['Select category'] = "Select category";
@@ -1188,30 +825,19 @@ $lang['Import is successful'] = "Import is successful";
 $lang['smart_search_reservations'] = "ID, user";
 $lang['Date to'] = "Date to";
 $lang['Date from'] = "Date from";
-
 $lang['DateModified'] = "Date modified";
-
 $lang['QUICK_SEARCH'] = "QUICK SEARCH";
 $lang['SMART_SEARCH'] = "SMART SEARCH";
 $lang['Confirm image resize'] = "Confirm image resize";
 $lang['Dependent fields issue'] = "Dependent fields can be based on one/available fields only, remove all dependent fields to use this one";
 $lang['Agency related'] = "Agency related";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-
 $lang['Website logo secondary'] = "Website logo secondary";
 $lang['What is ISO code?'] = "What is ISO code?";
 $lang['Php date format'] = "Php date format";
 $lang['Js date format'] = "Js date format";
 $lang['C_PRICE_RANGE'] = "PRICE RANGE";
 $lang['C_YEAR_RANGE'] = "YEAR RANGE";
-$lang[''] = "";
-$lang[''] = "";
-
 $lang['Listing visible for public'] = "Listing visible for public";
-$lang[''] = "";
-
 $lang['Something is wrong with request'] = "Something is wrong with request";
 $lang['Results available'] = "Results available";
 $lang['Registration disabled on server'] = "Registration disabled on server";
@@ -1220,19 +846,11 @@ $lang['Longer password required'] = "Longer password required";
 $lang['Check your email and activate account'] = "Check your email and activate account";
 $lang['Activate your account'] = "Activate your account";
 $lang['login_link'] = "login_link";
-$lang['Problem sending email to user'] = "Problem sending email to user";
 $lang['Listing removed!'] = "Listing removed!";
 $lang['Listing doesnt exists!'] = "Listing doesnt exists!";
 $lang['Only default lang is supported'] = "Only default lang is supported";
 $lang['Added declined'] = "Added declined";
 $lang['Listing added'] = "Listing added";
 $lang['Listing saved'] = "Listing saved";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
-$lang[''] = "";
 
-
-
-
-
+?>

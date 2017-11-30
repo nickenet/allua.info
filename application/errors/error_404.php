@@ -1,62 +1,32 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="uk">
 <head>
-<title>404 Page Not Found</title>
+<title>404 Page Not Found | 404 Сторінку не знайдено | Страница не найдена</title>
+<meta charset="utf-8">
+<link rel="shortcut icon" href="files/favicon.png" type="image/x-icon" />
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400italic,400,700&s
+ubset=latin,cyrillic' rel='stylesheet' type='text/css'>
 <style type="text/css">
-
-::selection{ background-color: #E13300; color: white; }
-::moz-selection{ background-color: #E13300; color: white; }
-::webkit-selection{ background-color: #E13300; color: white; }
-
-body {
-	background-color: #fff;
-	margin: 40px;
-	font: 13px/20px normal Helvetica, Arial, sans-serif;
-	color: #4F5155;
-}
-
-a {
-	color: #003399;
-	background-color: transparent;
-	font-weight: normal;
-}
-
-h1 {
-	color: #444;
-	background-color: transparent;
-	border-bottom: 1px solid #D0D0D0;
-	font-size: 19px;
-	font-weight: normal;
-	margin: 0 0 14px 0;
-	padding: 14px 15px 10px 15px;
-}
-
-code {
-	font-family: Consolas, Monaco, Courier New, Courier, monospace;
-	font-size: 12px;
-	background-color: #f9f9f9;
-	border: 1px solid #D0D0D0;
-	color: #002166;
-	display: block;
-	margin: 14px 0 14px 0;
-	padding: 12px 10px 12px 10px;
-}
-
-#container {
-	margin: 10px;
-	border: 1px solid #D0D0D0;
-	-webkit-box-shadow: 0 0 8px #D0D0D0;
-}
-
-p {
-	margin: 12px 15px 12px 15px;
+html, body {width:100%;height:100%;overflow:hidden;margin:0px;padding:0px;font-f
+amily:'Open Sans',sans-serif;font-size:16px}
+body {background:url('/files/404.png') center no-repeat #333039}
+.content {width:100%;text-align:center;position:absolute;bottom:10%;left:0px;}
+.content a {display:inline-block;text-decoration:none}
+.content a, .content a:hover {color:rgba(255,255,255,0.3);}
+.content a:hover {color:rgba(255,255,255,0.5);}
+@media only screen and (max-width: 460px), screen and (max-height: 700px) {
+.content {position:static;}
+.content a {display:block;width:100%;height:100%;position:absolute;top:0px;left:
+0px;font-size:0px;opacity:0;}
+body {background-size:cover}
 }
 </style>
 </head>
 <body>
-	<div id="container">
-		<h1><?php echo $heading; ?></h1>
-		<?php echo $message; ?>
-	</div>
+    <div class="content">
+	<a href="/">Go Home | На головну | На главную</a>
+	<h1><?php echo $heading; ?></h1>
+	<?php echo $message; ?>
+    </div>
 </body>
 </html>

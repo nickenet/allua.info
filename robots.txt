@@ -1,6 +1,31 @@
+User-agent: MJ12bot
+Disallow: /
+Crawl-delay: 10
+
+User-agent: AhrefsBot
+Disallow: /
+Crawl-delay: 10
+
+User-agent: AppleWebKit
+Disallow: /
+Crawl-delay: 10
+
 User-agent: *
 Disallow: /admin/
 Disallow: /admin-assets/
-Disallow: /frontend/
+Disallow: /backups/
+Disallow: /application/
+Disallow: /cgi-bin/
+Disallow: /configurator-assets
+Disallow: /system/
+Disallow: /webstat/
+Disallow: /vendor/
+Disallow:/index.php*
+Disallow:/search?*
+Disallow:*install*
+Disallow:*?*
+Crawl-delay: 10
 
+Host: https://www.allua.nfo
+Sitemap: https://www.allua.info/sitemap.xml
 

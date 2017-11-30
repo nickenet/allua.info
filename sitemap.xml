@@ -5,861 +5,395 @@
   	xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
 			    http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
-	<loc>http://allua.info/index.php/ua/6/mapa</loc>
+	<loc>https://www.allua.info/ua/6/golovna</loc>
 	<lastmod>2013-12-29T12:06:05+01:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
     <xhtml:link
         rel="alternate"
-        hreflang="en"
-        href="http://allua.info/index.php/en/6/mapa"
-    />
-    <xhtml:link
-        rel="alternate"
         hreflang="ru"
-        href="http://allua.info/index.php/ru/6/mapa"
+        href="https://www.allua.info/ru/6/golovna"
     />
 </url>
 <url>
-	<loc>http://allua.info/index.php/en/6/map</loc>
-	<lastmod>2013-12-29T12:06:05+01:00</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-    <xhtml:link
-        rel="alternate"
-        hreflang="ua"
-        href="http://allua.info/index.php/ua/6/map"
-    />
-    <xhtml:link
-        rel="alternate"
-        hreflang="ru"
-        href="http://allua.info/index.php/ru/6/map"
-    />
-</url>
-<url>
-	<loc>http://allua.info/index.php/ru/6/karta</loc>
+	<loc>https://www.allua.info/ru/6/karta</loc>
 	<lastmod>2013-12-29T12:06:05+01:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
     <xhtml:link
         rel="alternate"
         hreflang="ua"
-        href="http://allua.info/index.php/ua/6/karta"
-    />
-    <xhtml:link
-        rel="alternate"
-        hreflang="en"
-        href="http://allua.info/index.php/en/6/karta"
+        href="https://www.allua.info/ua/6/karta"
     />
 </url>
 <url>
-	<loc>http://allua.info/index.php/en/152</loc>
+	<loc>https://www.allua.info/ua/152</loc>
+	<lastmod>2014-04-06T16:21:32+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="ru"
+        href="https://www.allua.info/ru/152"
+    />
+</url>
+<url>
+	<loc>https://www.allua.info/ru/152</loc>
 	<lastmod>2014-04-06T16:21:32+02:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
     <xhtml:link
         rel="alternate"
         hreflang="ua"
-        href="http://allua.info/index.php/ua/152"
-    />
-    <xhtml:link
-        rel="alternate"
-        hreflang="ru"
-        href="http://allua.info/index.php/ru/152"
+        href="https://www.allua.info/ua/152"
     />
 </url>
 <url>
-	<loc>http://allua.info/index.php/ua/152</loc>
-	<lastmod>2014-04-06T16:21:32+02:00</lastmod>
+	<loc>https://www.allua.info/ua/155/test_news_category</loc>
+	<lastmod>2014-04-06T20:13:51+02:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
     <xhtml:link
         rel="alternate"
-        hreflang="en"
-        href="http://allua.info/index.php/en/152"
-    />
-    <xhtml:link
-        rel="alternate"
         hreflang="ru"
-        href="http://allua.info/index.php/ru/152"
+        href="https://www.allua.info/ru/155/test_news_category"
     />
 </url>
 <url>
-	<loc>http://allua.info/index.php/ru/152</loc>
-	<lastmod>2014-04-06T16:21:32+02:00</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-    <xhtml:link
-        rel="alternate"
-        hreflang="ua"
-        href="http://allua.info/index.php/ua/152"
-    />
-    <xhtml:link
-        rel="alternate"
-        hreflang="en"
-        href="http://allua.info/index.php/en/152"
-    />
-</url>
-<url>
-	<loc>http://allua.info/index.php/en/155/test_news_category</loc>
+	<loc>https://www.allua.info/ru/155/test_news_category</loc>
 	<lastmod>2014-04-06T20:13:51+02:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
     <xhtml:link
         rel="alternate"
         hreflang="ua"
-        href="http://allua.info/index.php/ua/155/test_news_category"
-    />
-    <xhtml:link
-        rel="alternate"
-        hreflang="ru"
-        href="http://allua.info/index.php/ru/155/test_news_category"
+        href="https://www.allua.info/ua/155/test_news_category"
     />
 </url>
 <url>
-	<loc>http://allua.info/index.php/ua/155/test_news_category</loc>
-	<lastmod>2014-04-06T20:13:51+02:00</lastmod>
+	<loc>https://www.allua.info/ua/159/test_news_category_2</loc>
+	<lastmod>2014-04-15T18:37:33+02:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
     <xhtml:link
         rel="alternate"
-        hreflang="en"
-        href="http://allua.info/index.php/en/155/test_news_category"
-    />
-    <xhtml:link
-        rel="alternate"
         hreflang="ru"
-        href="http://allua.info/index.php/ru/155/test_news_category"
+        href="https://www.allua.info/ru/159/test_news_category_2"
     />
 </url>
 <url>
-	<loc>http://allua.info/index.php/ru/155/test_news_category</loc>
-	<lastmod>2014-04-06T20:13:51+02:00</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-    <xhtml:link
-        rel="alternate"
-        hreflang="ua"
-        href="http://allua.info/index.php/ua/155/test_news_category"
-    />
-    <xhtml:link
-        rel="alternate"
-        hreflang="en"
-        href="http://allua.info/index.php/en/155/test_news_category"
-    />
-</url>
-<url>
-	<loc>http://allua.info/index.php/en/159/test_news_category_2</loc>
+	<loc>https://www.allua.info/ru/159/test_news_category_2</loc>
 	<lastmod>2014-04-15T18:37:33+02:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
     <xhtml:link
         rel="alternate"
         hreflang="ua"
-        href="http://allua.info/index.php/ua/159/test_news_category_2"
-    />
-    <xhtml:link
-        rel="alternate"
-        hreflang="ru"
-        href="http://allua.info/index.php/ru/159/test_news_category_2"
+        href="https://www.allua.info/ua/159/test_news_category_2"
     />
 </url>
 <url>
-	<loc>http://allua.info/index.php/ua/159/test_news_category_2</loc>
-	<lastmod>2014-04-15T18:37:33+02:00</lastmod>
+	<loc>https://www.allua.info/ua/1/categories</loc>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
     <xhtml:link
         rel="alternate"
-        hreflang="en"
-        href="http://allua.info/index.php/en/159/test_news_category_2"
-    />
-    <xhtml:link
-        rel="alternate"
         hreflang="ru"
-        href="http://allua.info/index.php/ru/159/test_news_category_2"
+        href="https://www.allua.info/ru/1/categories"
     />
 </url>
 <url>
-	<loc>http://allua.info/index.php/ru/159/test_news_category_2</loc>
-	<lastmod>2014-04-15T18:37:33+02:00</lastmod>
+	<loc>https://www.allua.info/ru/1/categories</loc>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
     <xhtml:link
         rel="alternate"
         hreflang="ua"
-        href="http://allua.info/index.php/ua/159/test_news_category_2"
-    />
-    <xhtml:link
-        rel="alternate"
-        hreflang="en"
-        href="http://allua.info/index.php/en/159/test_news_category_2"
+        href="https://www.allua.info/ua/1/categories"
     />
 </url>
 <url>
-	<loc>http://allua.info/index.php/en/1/categories</loc>
+	<loc>https://www.allua.info/ua/151</loc>
+	<lastmod>2014-04-06T16:07:03+02:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
-    <xhtml:link
-        rel="alternate"
-        hreflang="ua"
-        href="http://allua.info/index.php/ua/1/categories"
-    />
     <xhtml:link
         rel="alternate"
         hreflang="ru"
-        href="http://allua.info/index.php/ru/1/categories"
+        href="https://www.allua.info/ru/151"
     />
 </url>
 <url>
-	<loc>http://allua.info/index.php/ua/1/categories</loc>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-    <xhtml:link
-        rel="alternate"
-        hreflang="en"
-        href="http://allua.info/index.php/en/1/categories"
-    />
-    <xhtml:link
-        rel="alternate"
-        hreflang="ru"
-        href="http://allua.info/index.php/ru/1/categories"
-    />
-</url>
-<url>
-	<loc>http://allua.info/index.php/ru/1/categories</loc>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-    <xhtml:link
-        rel="alternate"
-        hreflang="ua"
-        href="http://allua.info/index.php/ua/1/categories"
-    />
-    <xhtml:link
-        rel="alternate"
-        hreflang="en"
-        href="http://allua.info/index.php/en/1/categories"
-    />
-</url>
-<url>
-	<loc>http://allua.info/index.php/en/151</loc>
+	<loc>https://www.allua.info/ru/151</loc>
 	<lastmod>2014-04-06T16:07:03+02:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
     <xhtml:link
         rel="alternate"
         hreflang="ua"
-        href="http://allua.info/index.php/ua/151"
-    />
-    <xhtml:link
-        rel="alternate"
-        hreflang="ru"
-        href="http://allua.info/index.php/ru/151"
+        href="https://www.allua.info/ua/151"
     />
 </url>
 <url>
-	<loc>http://allua.info/index.php/ua/151</loc>
-	<lastmod>2014-04-06T16:07:03+02:00</lastmod>
+	<loc>https://www.allua.info/ua/145/mapa</loc>
+	<lastmod>2014-03-02T11:55:40+01:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
     <xhtml:link
         rel="alternate"
-        hreflang="en"
-        href="http://allua.info/index.php/en/151"
-    />
-    <xhtml:link
-        rel="alternate"
         hreflang="ru"
-        href="http://allua.info/index.php/ru/151"
+        href="https://www.allua.info/ru/145/mapa"
     />
 </url>
 <url>
-	<loc>http://allua.info/index.php/ru/151</loc>
-	<lastmod>2014-04-06T16:07:03+02:00</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-    <xhtml:link
-        rel="alternate"
-        hreflang="ua"
-        href="http://allua.info/index.php/ua/151"
-    />
-    <xhtml:link
-        rel="alternate"
-        hreflang="en"
-        href="http://allua.info/index.php/en/151"
-    />
-</url>
-<url>
-	<loc>http://allua.info/index.php/en/145/full</loc>
+	<loc>https://www.allua.info/ru/145/karta</loc>
 	<lastmod>2014-03-02T11:55:40+01:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
     <xhtml:link
         rel="alternate"
         hreflang="ua"
-        href="http://allua.info/index.php/ua/145/full"
-    />
-    <xhtml:link
-        rel="alternate"
-        hreflang="ru"
-        href="http://allua.info/index.php/ru/145/full"
+        href="https://www.allua.info/ua/145/karta"
     />
 </url>
 <url>
-	<loc>http://allua.info/index.php/ua/145/full</loc>
-	<lastmod>2014-03-02T11:55:40+01:00</lastmod>
+	<loc>https://www.allua.info/ua/147/rekomendovani</loc>
+	<lastmod>2014-04-05T10:33:02+02:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
     <xhtml:link
         rel="alternate"
-        hreflang="en"
-        href="http://allua.info/index.php/en/145/full"
-    />
-    <xhtml:link
-        rel="alternate"
         hreflang="ru"
-        href="http://allua.info/index.php/ru/145/full"
+        href="https://www.allua.info/ru/147/rekomendovani"
     />
 </url>
 <url>
-	<loc>http://allua.info/index.php/ru/145/full</loc>
-	<lastmod>2014-03-02T11:55:40+01:00</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-    <xhtml:link
-        rel="alternate"
-        hreflang="ua"
-        href="http://allua.info/index.php/ua/145/full"
-    />
-    <xhtml:link
-        rel="alternate"
-        hreflang="en"
-        href="http://allua.info/index.php/en/145/full"
-    />
-</url>
-<url>
-	<loc>http://allua.info/index.php/en/147/featured</loc>
+	<loc>https://www.allua.info/ru/147/rekomenduemye</loc>
 	<lastmod>2014-04-05T10:33:02+02:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
     <xhtml:link
         rel="alternate"
         hreflang="ua"
-        href="http://allua.info/index.php/ua/147/featured"
+        href="https://www.allua.info/ua/147/rekomenduemye"
     />
+</url>
+<url>
+	<loc>https://www.allua.info/ua/142/blog</loc>
+	<lastmod>2014-01-04T22:19:49+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
     <xhtml:link
         rel="alternate"
         hreflang="ru"
-        href="http://allua.info/index.php/ru/147/featured"
+        href="https://www.allua.info/ru/142/blog"
     />
 </url>
 <url>
-	<loc>http://allua.info/index.php/ua/147/featured</loc>
-	<lastmod>2014-04-05T10:33:02+02:00</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-    <xhtml:link
-        rel="alternate"
-        hreflang="en"
-        href="http://allua.info/index.php/en/147/featured"
-    />
-    <xhtml:link
-        rel="alternate"
-        hreflang="ru"
-        href="http://allua.info/index.php/ru/147/featured"
-    />
-</url>
-<url>
-	<loc>http://allua.info/index.php/ru/147/featured</loc>
-	<lastmod>2014-04-05T10:33:02+02:00</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-    <xhtml:link
-        rel="alternate"
-        hreflang="ua"
-        href="http://allua.info/index.php/ua/147/featured"
-    />
-    <xhtml:link
-        rel="alternate"
-        hreflang="en"
-        href="http://allua.info/index.php/en/147/featured"
-    />
-</url>
-<url>
-	<loc>http://allua.info/index.php/en/5/about_us</loc>
-	<lastmod>2013-12-12T16:01:35+01:00</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-    <xhtml:link
-        rel="alternate"
-        hreflang="ua"
-        href="http://allua.info/index.php/ua/5/about_us"
-    />
-    <xhtml:link
-        rel="alternate"
-        hreflang="ru"
-        href="http://allua.info/index.php/ru/5/about_us"
-    />
-</url>
-<url>
-	<loc>http://allua.info/index.php/ua/5/about_us</loc>
-	<lastmod>2013-12-12T16:01:35+01:00</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-    <xhtml:link
-        rel="alternate"
-        hreflang="en"
-        href="http://allua.info/index.php/en/5/about_us"
-    />
-    <xhtml:link
-        rel="alternate"
-        hreflang="ru"
-        href="http://allua.info/index.php/ru/5/about_us"
-    />
-</url>
-<url>
-	<loc>http://allua.info/index.php/ru/5/about_us</loc>
-	<lastmod>2013-12-12T16:01:35+01:00</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-    <xhtml:link
-        rel="alternate"
-        hreflang="ua"
-        href="http://allua.info/index.php/ua/5/about_us"
-    />
-    <xhtml:link
-        rel="alternate"
-        hreflang="en"
-        href="http://allua.info/index.php/en/5/about_us"
-    />
-</url>
-<url>
-	<loc>http://allua.info/index.php/en/142/blog_page</loc>
+	<loc>https://www.allua.info/ru/142/blog</loc>
 	<lastmod>2014-01-04T22:19:49+01:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
     <xhtml:link
         rel="alternate"
         hreflang="ua"
-        href="http://allua.info/index.php/ua/142/blog_page"
-    />
-    <xhtml:link
-        rel="alternate"
-        hreflang="ru"
-        href="http://allua.info/index.php/ru/142/blog_page"
+        href="https://www.allua.info/ua/142/blog"
     />
 </url>
 <url>
-	<loc>http://allua.info/index.php/ua/142/blog_page</loc>
-	<lastmod>2014-01-04T22:19:49+01:00</lastmod>
+	<loc>https://www.allua.info/ua/5/pro_nas</loc>
+	<lastmod>2013-12-12T16:01:35+01:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
     <xhtml:link
         rel="alternate"
-        hreflang="en"
-        href="http://allua.info/index.php/en/142/blog_page"
-    />
-    <xhtml:link
-        rel="alternate"
         hreflang="ru"
-        href="http://allua.info/index.php/ru/142/blog_page"
+        href="https://www.allua.info/ru/5/pro_nas"
     />
 </url>
 <url>
-	<loc>http://allua.info/index.php/ru/142/blog_page</loc>
-	<lastmod>2014-01-04T22:19:49+01:00</lastmod>
+	<loc>https://www.allua.info/ru/5/o_nas</loc>
+	<lastmod>2013-12-12T16:01:35+01:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
     <xhtml:link
         rel="alternate"
         hreflang="ua"
-        href="http://allua.info/index.php/ua/142/blog_page"
-    />
-    <xhtml:link
-        rel="alternate"
-        hreflang="en"
-        href="http://allua.info/index.php/en/142/blog_page"
+        href="https://www.allua.info/ua/5/o_nas"
     />
 </url>
 <url>
-	<loc>http://allua.info/index.php/en/169/agents</loc>
+	<loc>https://www.allua.info/ua/169/agents</loc>
+	<lastmod>2014-08-01T19:02:31+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="ru"
+        href="https://www.allua.info/ru/169/agents"
+    />
+</url>
+<url>
+	<loc>https://www.allua.info/ru/169/agents</loc>
 	<lastmod>2014-08-01T19:02:31+02:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
     <xhtml:link
         rel="alternate"
         hreflang="ua"
-        href="http://allua.info/index.php/ua/169/agents"
-    />
-    <xhtml:link
-        rel="alternate"
-        hreflang="ru"
-        href="http://allua.info/index.php/ru/169/agents"
+        href="https://www.allua.info/ua/169/agents"
     />
 </url>
 <url>
-	<loc>http://allua.info/index.php/ua/169/agents</loc>
-	<lastmod>2014-08-01T19:02:31+02:00</lastmod>
+	<loc>https://www.allua.info/ua/143/custom_search</loc>
+	<lastmod>2014-02-10T10:54:19+01:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
     <xhtml:link
         rel="alternate"
-        hreflang="en"
-        href="http://allua.info/index.php/en/169/agents"
-    />
-    <xhtml:link
-        rel="alternate"
         hreflang="ru"
-        href="http://allua.info/index.php/ru/169/agents"
+        href="https://www.allua.info/ru/143/custom_search"
     />
 </url>
 <url>
-	<loc>http://allua.info/index.php/ru/169/agents</loc>
-	<lastmod>2014-08-01T19:02:31+02:00</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-    <xhtml:link
-        rel="alternate"
-        hreflang="ua"
-        href="http://allua.info/index.php/ua/169/agents"
-    />
-    <xhtml:link
-        rel="alternate"
-        hreflang="en"
-        href="http://allua.info/index.php/en/169/agents"
-    />
-</url>
-<url>
-	<loc>http://allua.info/index.php/en/143/custom_search</loc>
+	<loc>https://www.allua.info/ru/143/custom_search</loc>
 	<lastmod>2014-02-10T10:54:19+01:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
     <xhtml:link
         rel="alternate"
         hreflang="ua"
-        href="http://allua.info/index.php/ua/143/custom_search"
-    />
-    <xhtml:link
-        rel="alternate"
-        hreflang="ru"
-        href="http://allua.info/index.php/ru/143/custom_search"
+        href="https://www.allua.info/ua/143/custom_search"
     />
 </url>
 <url>
-	<loc>http://allua.info/index.php/ua/143/custom_search</loc>
-	<lastmod>2014-02-10T10:54:19+01:00</lastmod>
+	<loc>https://www.allua.info/ua/146/google_link</loc>
+	<lastmod>2014-03-15T18:18:13+01:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
     <xhtml:link
         rel="alternate"
-        hreflang="en"
-        href="http://allua.info/index.php/en/143/custom_search"
-    />
-    <xhtml:link
-        rel="alternate"
         hreflang="ru"
-        href="http://allua.info/index.php/ru/143/custom_search"
+        href="https://www.allua.info/ru/146/google_link"
     />
 </url>
 <url>
-	<loc>http://allua.info/index.php/ru/143/custom_search</loc>
-	<lastmod>2014-02-10T10:54:19+01:00</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-    <xhtml:link
-        rel="alternate"
-        hreflang="ua"
-        href="http://allua.info/index.php/ua/143/custom_search"
-    />
-    <xhtml:link
-        rel="alternate"
-        hreflang="en"
-        href="http://allua.info/index.php/en/143/custom_search"
-    />
-</url>
-<url>
-	<loc>http://allua.info/index.php/en/146/google_link</loc>
+	<loc>https://www.allua.info/ru/146/google_link</loc>
 	<lastmod>2014-03-15T18:18:13+01:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
     <xhtml:link
         rel="alternate"
         hreflang="ua"
-        href="http://allua.info/index.php/ua/146/google_link"
-    />
-    <xhtml:link
-        rel="alternate"
-        hreflang="ru"
-        href="http://allua.info/index.php/ru/146/google_link"
+        href="https://www.allua.info/ua/146/google_link"
     />
 </url>
 <url>
-	<loc>http://allua.info/index.php/ua/146/google_link</loc>
-	<lastmod>2014-03-15T18:18:13+01:00</lastmod>
+	<loc>https://www.allua.info/ua/157/articles</loc>
+	<lastmod>2014-04-08T22:08:34+02:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
     <xhtml:link
         rel="alternate"
-        hreflang="en"
-        href="http://allua.info/index.php/en/146/google_link"
-    />
-    <xhtml:link
-        rel="alternate"
         hreflang="ru"
-        href="http://allua.info/index.php/ru/146/google_link"
+        href="https://www.allua.info/ru/157/articles"
     />
 </url>
 <url>
-	<loc>http://allua.info/index.php/ru/146/google_link</loc>
-	<lastmod>2014-03-15T18:18:13+01:00</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-    <xhtml:link
-        rel="alternate"
-        hreflang="ua"
-        href="http://allua.info/index.php/ua/146/google_link"
-    />
-    <xhtml:link
-        rel="alternate"
-        hreflang="en"
-        href="http://allua.info/index.php/en/146/google_link"
-    />
-</url>
-<url>
-	<loc>http://allua.info/index.php/en/157/articles</loc>
+	<loc>https://www.allua.info/ru/157/articles</loc>
 	<lastmod>2014-04-08T22:08:34+02:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
     <xhtml:link
         rel="alternate"
         hreflang="ua"
-        href="http://allua.info/index.php/ua/157/articles"
-    />
-    <xhtml:link
-        rel="alternate"
-        hreflang="ru"
-        href="http://allua.info/index.php/ru/157/articles"
+        href="https://www.allua.info/ua/157/articles"
     />
 </url>
 <url>
-	<loc>http://allua.info/index.php/ua/157/articles</loc>
-	<lastmod>2014-04-08T22:08:34+02:00</lastmod>
+	<loc>https://www.allua.info/ua/158/test_article_2</loc>
+	<lastmod>2014-04-08T22:30:56+02:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
     <xhtml:link
         rel="alternate"
-        hreflang="en"
-        href="http://allua.info/index.php/en/157/articles"
-    />
-    <xhtml:link
-        rel="alternate"
         hreflang="ru"
-        href="http://allua.info/index.php/ru/157/articles"
+        href="https://www.allua.info/ru/158/test_article_2"
     />
 </url>
 <url>
-	<loc>http://allua.info/index.php/ru/157/articles</loc>
-	<lastmod>2014-04-08T22:08:34+02:00</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-    <xhtml:link
-        rel="alternate"
-        hreflang="ua"
-        href="http://allua.info/index.php/ua/157/articles"
-    />
-    <xhtml:link
-        rel="alternate"
-        hreflang="en"
-        href="http://allua.info/index.php/en/157/articles"
-    />
-</url>
-<url>
-	<loc>http://allua.info/index.php/en/158/test_article_2</loc>
+	<loc>https://www.allua.info/ru/158/test_article_2</loc>
 	<lastmod>2014-04-08T22:30:56+02:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
     <xhtml:link
         rel="alternate"
         hreflang="ua"
-        href="http://allua.info/index.php/ua/158/test_article_2"
-    />
-    <xhtml:link
-        rel="alternate"
-        hreflang="ru"
-        href="http://allua.info/index.php/ru/158/test_article_2"
+        href="https://www.allua.info/ua/158/test_article_2"
     />
 </url>
 <url>
-	<loc>http://allua.info/index.php/ua/158/test_article_2</loc>
-	<lastmod>2014-04-08T22:30:56+02:00</lastmod>
+	<loc>https://www.allua.info/ua/156/article_test</loc>
+	<lastmod>2014-04-08T17:59:20+02:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
     <xhtml:link
         rel="alternate"
-        hreflang="en"
-        href="http://allua.info/index.php/en/158/test_article_2"
-    />
-    <xhtml:link
-        rel="alternate"
         hreflang="ru"
-        href="http://allua.info/index.php/ru/158/test_article_2"
+        href="https://www.allua.info/ru/156/article_test"
     />
 </url>
 <url>
-	<loc>http://allua.info/index.php/ru/158/test_article_2</loc>
-	<lastmod>2014-04-08T22:30:56+02:00</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-    <xhtml:link
-        rel="alternate"
-        hreflang="ua"
-        href="http://allua.info/index.php/ua/158/test_article_2"
-    />
-    <xhtml:link
-        rel="alternate"
-        hreflang="en"
-        href="http://allua.info/index.php/en/158/test_article_2"
-    />
-</url>
-<url>
-	<loc>http://allua.info/index.php/en/156/article_test</loc>
+	<loc>https://www.allua.info/ru/156/article_test</loc>
 	<lastmod>2014-04-08T17:59:20+02:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
     <xhtml:link
         rel="alternate"
         hreflang="ua"
-        href="http://allua.info/index.php/ua/156/article_test"
-    />
-    <xhtml:link
-        rel="alternate"
-        hreflang="ru"
-        href="http://allua.info/index.php/ru/156/article_test"
+        href="https://www.allua.info/ua/156/article_test"
     />
 </url>
 <url>
-	<loc>http://allua.info/index.php/ua/156/article_test</loc>
-	<lastmod>2014-04-08T17:59:20+02:00</lastmod>
+	<loc>https://www.allua.info/ua/154/test_news</loc>
+	<lastmod>2014-04-06T20:01:32+02:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
     <xhtml:link
         rel="alternate"
-        hreflang="en"
-        href="http://allua.info/index.php/en/156/article_test"
-    />
-    <xhtml:link
-        rel="alternate"
         hreflang="ru"
-        href="http://allua.info/index.php/ru/156/article_test"
+        href="https://www.allua.info/ru/154/test_news"
     />
 </url>
 <url>
-	<loc>http://allua.info/index.php/ru/156/article_test</loc>
-	<lastmod>2014-04-08T17:59:20+02:00</lastmod>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-    <xhtml:link
-        rel="alternate"
-        hreflang="ua"
-        href="http://allua.info/index.php/ua/156/article_test"
-    />
-    <xhtml:link
-        rel="alternate"
-        hreflang="en"
-        href="http://allua.info/index.php/en/156/article_test"
-    />
-</url>
-<url>
-	<loc>http://allua.info/index.php/en/154/test_news</loc>
+	<loc>https://www.allua.info/ru/154/test_news</loc>
 	<lastmod>2014-04-06T20:01:32+02:00</lastmod>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
     <xhtml:link
         rel="alternate"
         hreflang="ua"
-        href="http://allua.info/index.php/ua/154/test_news"
-    />
-    <xhtml:link
-        rel="alternate"
-        hreflang="ru"
-        href="http://allua.info/index.php/ru/154/test_news"
+        href="https://www.allua.info/ua/154/test_news"
     />
 </url>
 <url>
-	<loc>http://allua.info/index.php/ua/154/test_news</loc>
-	<lastmod>2014-04-06T20:01:32+02:00</lastmod>
+	<loc>https://www.allua.info/ua/4/kontakti</loc>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
     <xhtml:link
         rel="alternate"
-        hreflang="en"
-        href="http://allua.info/index.php/en/154/test_news"
-    />
-    <xhtml:link
-        rel="alternate"
         hreflang="ru"
-        href="http://allua.info/index.php/ru/154/test_news"
+        href="https://www.allua.info/ru/4/kontakti"
     />
 </url>
 <url>
-	<loc>http://allua.info/index.php/ru/154/test_news</loc>
-	<lastmod>2014-04-06T20:01:32+02:00</lastmod>
+	<loc>https://www.allua.info/ru/4/kontakty</loc>
 	<changefreq>monthly</changefreq>
 	<priority>0.5</priority>
     <xhtml:link
         rel="alternate"
         hreflang="ua"
-        href="http://allua.info/index.php/ua/154/test_news"
-    />
-    <xhtml:link
-        rel="alternate"
-        hreflang="en"
-        href="http://allua.info/index.php/en/154/test_news"
-    />
-</url>
-<url>
-	<loc>http://allua.info/index.php/ua/4/kontakti</loc>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-    <xhtml:link
-        rel="alternate"
-        hreflang="en"
-        href="http://allua.info/index.php/en/4/kontakti"
-    />
-    <xhtml:link
-        rel="alternate"
-        hreflang="ru"
-        href="http://allua.info/index.php/ru/4/kontakti"
-    />
-</url>
-<url>
-	<loc>http://allua.info/index.php/en/4/contact</loc>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-    <xhtml:link
-        rel="alternate"
-        hreflang="ua"
-        href="http://allua.info/index.php/ua/4/contact"
-    />
-    <xhtml:link
-        rel="alternate"
-        hreflang="ru"
-        href="http://allua.info/index.php/ru/4/contact"
-    />
-</url>
-<url>
-	<loc>http://allua.info/index.php/ru/4/contact</loc>
-	<changefreq>monthly</changefreq>
-	<priority>0.5</priority>
-    <xhtml:link
-        rel="alternate"
-        hreflang="ua"
-        href="http://allua.info/index.php/ua/4/contact"
-    />
-    <xhtml:link
-        rel="alternate"
-        hreflang="en"
-        href="http://allua.info/index.php/en/4/contact"
+        href="https://www.allua.info/ua/4/kontakty"
     />
 </url>
 </urlset>
